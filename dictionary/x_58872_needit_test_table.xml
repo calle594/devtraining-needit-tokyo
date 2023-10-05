@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="47202e8307013110538efa9e7c1ed0a9" label="Test Table" max_length="40" name="x_58872_needit_test_table" type="collection">
+        <element label="apcid" max_length="40" name="apcid" type="string"/>
+        <element display="true" label="primary_application" max_length="40" name="primary_application" reference="sys_user" type="string"/>
+    </element>
+</database>
